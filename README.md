@@ -1,3 +1,3 @@
 # Henri Leroy — academic website
 
-Config files for my GitHub profile.
+This repo contains the config files for my GitHub profile.
