@@ -128,6 +128,11 @@ a:hover, a:focus-visible { text-decoration: underline; text-underline-offset: 0.
 }
 .profile-icon svg { display: block; width: 100%; height: 100%; }
 
+.profile-icon .ai {
+  font-size: 1rem;
+  line-height: 1;
+}
+
 .content { min-width: 0; }
 
 .content-section {
